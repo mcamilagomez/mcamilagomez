@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-I’m a passionate and driven software engineering student with a focus on backend development, cloud computing, and applied artificial intelligence. My work bridges technical knowledge with community leadership and a love for teaching. I'm committed to continuous learning and solving meaningful problems through technology and innovation.
+I’m a passionate and driven software engineering student with a focus on backend and frontend development, cloud computing, and applied artificial intelligence. My work bridges technical knowledge with community leadership and a love for teaching. I'm committed to continuous learning and solving meaningful problems through technology and innovation.
 
 ---
 
