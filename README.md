@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👩‍💻 María Camila Gómez Blanquicett
 
-<!--
-**mcamilagomez/mcamilagomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems and Computing Engineering Student @ Universidad del Norte  
+📍 Barranquilla, Colombia  
+📧 blanquicettm@uninorte.edu.co | 📱 +57 304 265 5257  
+[💼 LinkedIn](https://www.linkedin.com/in/maria-camila-gomez-blanquicett-4b88a22b0e)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I’m a passionate and driven software engineering student with a focus on backend development, cloud computing, and applied artificial intelligence. My work bridges technical knowledge with community leadership and a love for teaching. I'm committed to continuous learning and solving meaningful problems through technology and innovation.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, JavaScript, Java, Dart
+- **Frameworks & Tools:** React, Node.js, Angular, Flask, Flutter, Docker, Azure, AWS
+- **Databases:** SQL (MySQL, PostgreSQL, SQL Server)
+- **BI & Data:** Power BI, Pandas, NumPy, Excel
+- **DevOps & Other:** Git, GitHub, Agile (Scrum)
+
+---
+
+## 📚 Education
+
+🎓 **BSc in Systems and Computing Engineering**  
+*Universidad del Norte (2021 – Present)*
+
+🎓 **High School Diploma**  
+*Colegio Eucarístico de Santa Teresa (2015 – 2020)*
+
+---
+
+## 🧪 Projects
+
+- **GoBaq (2025):** Arrival time estimator for Barranquilla’s bus system  
+- **AthenasCode (2024):** Web development initiative with e-commerce projects  
+- **Academic Research (2023):** Performance analysis linked to ADHD and depression patterns
+
+---
+
+## 💼 Experience
+
+**Technical Assistant**  
+Universidad de Cartagena – *Oct 2024 to Dec 2024*  
+Supported recruitment processes, designed technical assessments in software engineering.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Uninorte Caribe Scholar** (2021 – Present)  
+- 👩‍💼 **Panelist** at Women Transforming Technology Congress (2024)  
+- 🧠 **Honor Mentions** at Geoexpofísica & Computational Engineering Congresses (2023)
+
+---
+
+## 👩‍🎓 Campus Involvement
+
+- 🎙️ President – W-STEM Student Group  
+- 📚 Monitor & Tutor – Calculus I–III, Discrete Mathematics  
+- 🎓 Uninorte Ambassador, Team Vive Uninorte  
+- 🧪 Board Member – Innovate Student Group
+
+---
+
+## 📜 Certifications
+
+- **Power BI & AI** – MinTIC (2024)  
+- **Serverless Framework on AWS**, **Big Data & ML on GCP**, **Azure Web Apps**, **PostgreSQL**, **Frontend Dev** – Platzi (2025)  
+- **Tutor Training Program** – CREE – Uninorte (2023)  
+- **Diplomado Pares Estudiantiles** – CEDU – Uninorte (2024)
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish – Native  
+- 🇺🇸 English – Advanced  
+- 🇩🇪 German – Basic
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect or reach out ✨
