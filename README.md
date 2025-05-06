@@ -18,8 +18,8 @@ I’m a passionate and driven software engineering student with a focus on backe
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, Java, Dart
-- **Frameworks & Tools:** React, Node.js, Angular, Flask, Flutter, Docker, Azure, AWS
+- **Languages:** Python, JavaScript, Java, Dart, TypeScript
+- **Frameworks & Tools:** React, Node.js, HTML, CSS, Flask, Flutter, Docker, Azure, AWS
 - **Databases:** SQL (MySQL, PostgreSQL, SQL Server)
 - **BI & Data:** Power BI, Pandas, NumPy, Excel
 - **DevOps & Other:** Git, GitHub, Agile (Scrum)
@@ -33,14 +33,6 @@ I’m a passionate and driven software engineering student with a focus on backe
 
 🎓 **High School Diploma**  
 *Colegio Eucarístico de Santa Teresa (2015 – 2020)*
-
----
-
-## 🧪 Projects
-
-- **GoBaq (2025):** Arrival time estimator for Barranquilla’s bus system  
-- **AthenasCode (2024):** Web development initiative with e-commerce projects  
-- **Academic Research (2023):** Performance analysis linked to ADHD and depression patterns
 
 ---
 
