@@ -2,7 +2,7 @@
 
 🎓 Systems and Computing Engineering Student @ Universidad del Norte  
 📍 Barranquilla, Colombia  
-📧 blanquicettm@uninorte.edu.co 
+📧 mariacamilagomezb@gmail.com
 
 [💼 LinkedIn](https://www.linkedin.com/in/maria-camila-gomez-blanquicett-4b88a22b0/)
 
